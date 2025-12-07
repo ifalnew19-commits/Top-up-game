@@ -1,23 +1,4 @@
-# Top-up-game
-Oke ini amanah
-/topup-game-website
-│
-├── index.html
-├── style.css
-├── script.js
-├── /assets
-│   ├── logo.png
-│   ├── favicon.ico
-│   └── /images
-│       ├── mobile-legends.jpg
-│       ├── free-fire.jpg
-│       ├── pubg.jpg
-│       ├── valorant.jpg
-│       ├── genshin-impact.jpg
-│       ├── cod-mobile.jpg
-│       ├── roblox.jpg
-│       └── apex-legends.jpg
-└── README.txt<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
